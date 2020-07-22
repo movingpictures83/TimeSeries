@@ -1,0 +1,2 @@
+static	plugins/TimeSeries/example/static.csv
+dynamic	plugins/TimeSeries/example/dynamic.csv

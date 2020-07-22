@@ -1,0 +1,2 @@
+Prefix plugins/TimeSeries/example
+Plugin TimeSeries inputfile parameters.txt outputfile output.timeseries.csv
